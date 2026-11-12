@@ -1,0 +1,2 @@
+sample_index,recommended_water,recommended_fertilizer,predicted_energy,yield_suitability,objective_score,qubo_best_water,qubo_best_fertilizer,exact_best_water,exact_best_fertilizer
+1801,280.0,180.0,19.525961574585526,0.33340156078338623,0.11588015553918382,280,180,280,180
